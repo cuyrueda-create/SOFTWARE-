@@ -1,0 +1,16 @@
+{
+  "name": "proyecto-modelado-entidades",
+  "version": "1.0.0",
+  "description": "Proyecto semanal TypeScript - Productora audiovisual",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node starter/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
